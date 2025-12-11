@@ -43,5 +43,7 @@ Bruk OpenCV og haarcascades til å gjenkjenne objekter i et bilde.
 - Finn et egnet bilde og se om du greier å detektere andre features, f.eks munn / øyner.
 
 Her er en video som gir en gjennomgang av temaet: https://youtu.be/TG6PRETpaJI
+
 Her er en video som viser hvordan du kan laste opp filene du trenger i Google Colab: https://youtu.be/G86TFkQh3nk
+
 Dere finner flere trente haarcascade set her https://github.com/opencv/opencv/tree/master/data/haarcascades
